@@ -1,0 +1,10 @@
+@import url("bag.css");
+@import url("base.css");
+
+.card {
+    max-width: 75vh;
+}
+
+.form-group:first-of-type {
+    margin-top: 2rem !important;
+}
